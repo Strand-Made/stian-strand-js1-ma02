@@ -40,7 +40,7 @@ word.onkeyup = function () {
 };
 
 // question 5
-// question for teacher: How would I go about to make it so that if I have pressed button to make bg color green, when scrolling down it changes to yellow?
+// question for teacher: How would I go about to make it so that if I have pressed button1 to make bg color green, and then when scrolling down it changes to yellow?
 // tried using event.stopPropagation(); but no result.
 function pageScroll() {
   const scrolled = window.scrollY;
