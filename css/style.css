@@ -1,0 +1,49 @@
+body {
+    background: #ebebeb;
+}
+
+body.highlight {
+    background: yellow;
+}
+
+select {
+    margin: 1rem 0;
+}
+
+.container {
+    padding: 1rem;
+    background: white;
+    border: 1px solid lightgrey;
+    max-width: 800px;
+    margin: 0 auto;
+    min-height: 1000px;
+}
+
+.togglee {
+    padding: 1rem;
+    border: 1px solid grey;
+    margin: 1rem 0;
+}
+
+.extra {
+    border-color: red;
+    color: blue;
+}
+
+.paragraphs-container {
+    padding: 1rem;
+    border: 1px solid grey;
+    margin-bottom: 1rem;
+}
+
+p.content {
+    padding: 1rem;
+    border: 1px solid green;
+    margin-bottom: 0.3rem;
+}
+
+input[type="text"] {
+    padding: 0.4rem;
+    border: 1px solid grey;
+    margin-bottom: 0.4rem;
+}
